@@ -1,4 +1,4 @@
-# Gen-AI---PDF-query-with-LLM
+# GenAI-PDF-query-with-LLM
 PDf query with LLM
 
 # Description
